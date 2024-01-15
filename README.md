@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐️ I'm Melihcan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey 🇹🇷</h3>
 
-- 🔭 I’m currently working on [portfolio](https://melihcansahinn.github.io/portfolio/)
+- 🔭 I’m currently working on Appointment System that brings businesses and customers together.
 
 - 🌱 I’m currently learning **React, NodeJS, React-Native, Django, Phyton**
 
