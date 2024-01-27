@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/Node%20JS-5F9E4E?logo=node.js&logoColor=white&style=for-the-badge" alt="nodejs"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Express%20JS-828282?logo=express&logoColor=white&style=for-the-badge" alt="express"/></a>
+  <a href="https://ejs.co" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/EJS-purple?logo=ejs&logoColor=white&style=for-the-badge" alt="express"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/php-7A86B8?logo=php&logoColor=white&style=for-the-badge" alt="php"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
