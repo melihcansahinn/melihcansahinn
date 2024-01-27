@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Appointment System ( Full Stack ) that brings businesses and customers to same platform and Gym Project ( Front End ).
 
-- 🌱 I’m currently learning **React, NodeJS, React-Native, Django, Phyton**
+- 🌱 I’m currently learning **React, NodeJS, React-Native**
 
 - 👨‍💻 All of my projects are available at [https://melihcansahinn.github.io/portfolio/](https://melihcansahinn.github.io/portfolio/)
 
