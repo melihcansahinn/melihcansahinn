@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐️ I'm Melihcan</h1>
 <h3 align="center">A passionate Full-Stack Web and Mobile Developer from Turkey 🇹🇷</h3>
 
-- 🔭 I’m currently working on Appointment System ( Full Stack ) that brings businesses and customers to same platform and Gym Project ( Front End ).
+- 🔭 I’m currently working on Appointment System ( Full Stack ) that brings businesses and customers to same platform.
 
 - 🌱 I’m currently learning **React, NodeJS, React-Native**
 
