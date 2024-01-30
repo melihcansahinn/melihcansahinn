@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐️ I'm Melihcan</h1>
-<h3 align="center">A passionate Full-Stack Web and Mobile Developer from Turkey 🇹🇷</h3>
+<h3 align="center">Jr. Full-Stack Web and Mobile Developer from Turkey 🇹🇷</h3>
 
 - 🔭 I’m currently working on Appointment System ( Full Stack ) that brings businesses and customers to same platform.
 
